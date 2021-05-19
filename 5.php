@@ -1,8 +1,10 @@
 <?php
 
-$number = 2;
+$n = 5;
 
-$result = pow($number, 3);
-echo $result;
+for ( $i = 1; $i <= $n; $i++ ){
+    $result = pow($i, 3);
+    echo "Number is: ".$i." and cube of the ".$i." is: ".$result."<br>";
+}
 
 ?>

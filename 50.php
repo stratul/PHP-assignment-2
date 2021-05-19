@@ -3,6 +3,7 @@
 $n = 79;
 $o = decoct($n);
 
-echo "The Octal of ".$n." is: ".$o;
+echo "Given Decimal Number is: ".$n;
+echo "<br>Equivalent Octal is: ".$o;
 
 ?>

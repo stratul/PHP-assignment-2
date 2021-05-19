@@ -1,7 +1,7 @@
 <?php
 
 $n1 = 24;
-$n2 = 32;
+$n2 = 28;
 
 $n1Arr = array();
 $n2Arr = array();

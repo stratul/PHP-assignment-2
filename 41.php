@@ -1,6 +1,9 @@
 <?php
 
 $n = 25;
-echo decbin($n);
+$b = decbin($n);
+
+echo "Given Decimal Number is: ".$n;
+echo "<br>Equivalent Bonary Number is: ".$b;
 
 ?>

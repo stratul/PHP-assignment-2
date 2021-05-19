@@ -3,7 +3,7 @@
 $n = 56;
 $sum = 0;
 
-echo "The positive divisor : ";
+echo "The positive divisor of ".$n." is: ";
 
 for( $i = 1; $i <= $n/2; $i++ ){
     $posDivisor = $n % $i;

@@ -1,6 +1,6 @@
 <?php
 
-$n = 1221;
+$n = 121;
 
 $str = (string) $n;
 $revstr = strrev($str);
